@@ -9,4 +9,4 @@ Car3d is an arcade endless racing game with 3rd person view:
 https://play.google.com/store/apps/details?id=com.DefaultCompany.car3d
 
 # Screenshots
-<img src="Textures/img_1.png" width = "300"><img src="Textures/img_2.png" width = "300">
+<img src="Textures/img_1.png" width = "300">   <img src="Textures/img_2.png" width = "300">
