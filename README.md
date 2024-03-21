@@ -1,7 +1,7 @@
 # Car3D
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
       alt="Download from Google Play"
-      height="80">](https://play.google.com/store/apps/details?id=com.pixelpatch.movieland&pcampaignid=web_share) 
+      height="80">](https://play.google.com/store/apps/details?id=com.DefaultCompany.car3d&pcampaignid=web_share) 
 <br/>
 Car3d is an arcade endless racing game with 3rd person view:
 - Tilt based steering control
